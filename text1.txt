@@ -1,1 +1,1 @@
-Test text file for git-github-jdm project
+Test text file for git-github-jdm project - changed
